@@ -1,0 +1,8 @@
+Best model validation accuracy: 0.5751072824059867
+
+params: {'C': 0.999}
+
+grid search parameters:
+param_grid_svm = {
+    'C' : [1, 0.999, 0.99]
+}

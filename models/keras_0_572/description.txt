@@ -1,0 +1,14 @@
+Best model validation accuracy: 0.5724154710769653
+
+'params': 'opt:adam, L2:0.003, act:tanh, hid_dim:100, hid_n:4, batch_size:32, epochs:75'
+
+grid search parameters:
+param_grid = {
+    'optimizer' : ['adam'],
+    'reg_rate_l2' : [0.0001, 0.0003, 0.001, 0.003],
+    'activation' : ['tanh'],
+    'hidden_dim' : [30, 50, 100],
+    'hidden_layers' : [2, 3, 4],
+    'batch_size' : [32],
+    'epochs' : [75]
+}
