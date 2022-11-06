@@ -1,4 +1,6 @@
 ﻿Music Genre Prediction - First Steps
+ 
+ Poster: https://tartuulikool-my.sharepoint.com/personal/victor88_ut_ee/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvictor88%5Fut%5Fee%2FDocuments%2Fvideos%20ids%20projects%202021%2Fd18%2Epdf&parent=%2Fpersonal%2Fvictor88%5Fut%5Fee%2FDocuments%2Fvideos%20ids%20projects%202021&ga=1
 
 Introduction to Data Science
 
